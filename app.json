@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./App.js",
     "name": "ServSpinApp2",
     "slug": "ServSpinApp2",
     "version": "1.0.0",
